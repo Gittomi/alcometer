@@ -12,7 +12,7 @@
 
 ## About The App
 
-Purpose of this app was to get to know with React Native and Expo app development. The calculus for alcohol levels is done simply using "usual" speed for alcohol burning. Everyone has their own tolerance and burning speeds for alcohol. **Thus this app shouldn't be used to evaluate if someone is fit to drive a vehicle.**It only gives lines/estimates from alcohol levels in blood.
+Purpose of this app was to get to know with React Native and Expo app development. The calculus for alcohol levels is done simply using "usual" speed for alcohol burning. Everyone has their own tolerance and burning speeds for alcohol. **Thus this app shouldn't be used to evaluate if someone is fit to drive a vehicle.** It only gives lines/estimates from alcohol levels in blood.
 
 ### Built With
 
