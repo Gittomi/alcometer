@@ -62,7 +62,7 @@ Packets needed for the project to run
   <tr>
     <td><img src="https://user-images.githubusercontent.com/91623447/193353254-04936bfb-8d42-45ab-b1a5-0e6c3b8f9f2b.png" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/91623447/193352913-48399001-e281-489f-a95e-9887230088a6.PNG" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/91623447/193355269-5d39989a-b526-4c8d-bd24-2bf2cee64d34.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/91623447/193356201-af2e33b1-067d-463f-bb6a-e1e9bfb94236.png" width=270 height=480></td>
   </tr>
  </table>
 
