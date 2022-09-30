@@ -52,8 +52,10 @@ Packets needed for the project to run
 4. Use _Expo Go_ via android- or ios device or emulator to use alcometerapp.
 
 ## Usage
+<div style={[{display: flex}, flexdirection: row}]}>
 ![_Android emulator_](https://user-images.githubusercontent.com/91623447/193353254-04936bfb-8d42-45ab-b1a5-0e6c3b8f9f2b.png)
 ![_Ios 15.6.1_](https://user-images.githubusercontent.com/91623447/193352913-48399001-e281-489f-a95e-9887230088a6.PNG)
+</div>
 With this app user can calculate alcohol levels in blood. By giving **weight** and selecting the **amount of beer bottles** drunk and **selecting time spent** this app calculates alcohol level in blood. There's **radiobutton for selecting gender** because there's a slight difference in the speed of burning alcohol between females and males. One must note that these are just _calculated_ values and there are individual differences among people. Do note that this app is for _demo usage only_. This app was targeted on android, and it was tested with android emulator (Pixel 3a API 29 android version 10..) and android phone with android 12.. version in it. This app also works with Ios version 15.6.
 
 ## License
