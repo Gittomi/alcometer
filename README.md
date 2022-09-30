@@ -1,6 +1,4 @@
-
 <div id="top"></div>
-
 <br />
 <div align="center">
   <h1 align="center">Alcometer</h1>
@@ -9,7 +7,6 @@
     <br />
   </p>
 </div>
-
 
 ## About The App
 
@@ -20,11 +17,9 @@ Purpose of this app was to get to know with React Native and Expo app developmen
 * [React-Native](https://reactnative.dev/)
 * [Expo](https://expo.dev/)
 
-
 ## Getting Started
 
 To get this app to work locally follow these simple example steps.
-
 
 ### Prerequisites
 
@@ -53,6 +48,8 @@ Packets needed for the project to run
 
 ## Usage
 
+With this app user can calculate alcohol levels in blood. By giving **weight** and selecting the **amount of beer bottles** drunk and **selecting time spent** this app calculates alcohol level in blood. There's **radiobutton for selecting gender** because there's a slight difference in the speed of burning alcohol between females and males. One must note that these are just _calculated_ values and there are individual differences among people. Do note that this app is for _demo usage only_. This app was targeted on android, and it was tested with android emulator (Pixel 3a API 29 android version 10..) and android phone with android 12.. version in it. This app also works with Ios version 15.6.
+
 <table>
   <tr>
     <td>Android View</td>
@@ -65,8 +62,6 @@ Packets needed for the project to run
     <td><img src="https://user-images.githubusercontent.com/91623447/193356201-af2e33b1-067d-463f-bb6a-e1e9bfb94236.png" width=270 height=480></td>
   </tr>
  </table>
-
-With this app user can calculate alcohol levels in blood. By giving **weight** and selecting the **amount of beer bottles** drunk and **selecting time spent** this app calculates alcohol level in blood. There's **radiobutton for selecting gender** because there's a slight difference in the speed of burning alcohol between females and males. One must note that these are just _calculated_ values and there are individual differences among people. Do note that this app is for _demo usage only_. This app was targeted on android, and it was tested with android emulator (Pixel 3a API 29 android version 10..) and android phone with android 12.. version in it. This app also works with Ios version 15.6.
 
 ## License
 
