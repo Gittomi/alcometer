@@ -53,6 +53,7 @@ Packets needed for the project to run
 
 ## Usage
 
+<table>
   <tr>
     <td>Android View</td>
      <td>Ios View</td>
